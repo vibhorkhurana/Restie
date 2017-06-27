@@ -1,0 +1,17 @@
+Checklist for HTTP REST API usage with Thingspeak
+
+1. Create a channel
+    - Using curl - Completed
+    - Using NodeJs - Completed
+    - Using Python - Completed
+    - Using C
+2. Post Channel Data
+    - Using curl - Completed
+    - Using NodeJs - Completed
+    - Using Python - Completed
+    - Using C
+3. Get Data from Channel
+    - Using curl - Completed
+    - Using NodeJs - Completed      
+    - Using Python - Completed
+    - Using C
